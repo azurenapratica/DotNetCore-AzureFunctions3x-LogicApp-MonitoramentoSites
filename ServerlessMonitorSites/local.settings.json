@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "BaseLog": "UseDevelopmentStorage=true",
+    "Sites": "https://github.com|https://stackoverflow.com|https://siteinvalido.com.br",
+    "UrlLogicAppAlerta": "ENPOINT POST LOGIC APP",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
